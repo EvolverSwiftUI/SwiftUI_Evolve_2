@@ -11,6 +11,9 @@
 		7F47A6302734DE9A00B6292D /* MagnificationgestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A62F2734DE9A00B6292D /* MagnificationgestureBootcamp.swift */; };
 		7F47A6332734E84A00B6292D /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A6322734E84A00B6292D /* RotationGestureBootcamp.swift */; };
 		7F47A6382734EAC100B6292D /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A6372734EAC100B6292D /* DragGestureBootcamp.swift */; };
+		7F47A63B2735513600B6292D /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A63A2735513600B6292D /* DragGestureBootcamp2.swift */; };
+		7F47A63E2735640A00B6292D /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A63D2735640A00B6292D /* ScrollViewReaderBootcamp.swift */; };
+		7F47A64127359F3600B6292D /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A64027359F3600B6292D /* GeometryReaderBootcamp.swift */; };
 		7F979D592730511900B60E03 /* SwiftUI_Evolve_2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F979D582730511900B60E03 /* SwiftUI_Evolve_2App.swift */; };
 		7F979D5B2730511900B60E03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F979D5A2730511900B60E03 /* ContentView.swift */; };
 		7F979D5D2730511A00B60E03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F979D5C2730511A00B60E03 /* Assets.xcassets */; };
@@ -22,6 +25,9 @@
 		7F47A62F2734DE9A00B6292D /* MagnificationgestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationgestureBootcamp.swift; sourceTree = "<group>"; };
 		7F47A6322734E84A00B6292D /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		7F47A6372734EAC100B6292D /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		7F47A63A2735513600B6292D /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		7F47A63D2735640A00B6292D /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		7F47A64027359F3600B6292D /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		7F979D552730511900B60E03 /* SwiftUI_Evolve_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Evolve_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F979D582730511900B60E03 /* SwiftUI_Evolve_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Evolve_2App.swift; sourceTree = "<group>"; };
 		7F979D5A2730511900B60E03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +72,9 @@
 				7F47A62F2734DE9A00B6292D /* MagnificationgestureBootcamp.swift */,
 				7F47A6322734E84A00B6292D /* RotationGestureBootcamp.swift */,
 				7F47A6372734EAC100B6292D /* DragGestureBootcamp.swift */,
+				7F47A63A2735513600B6292D /* DragGestureBootcamp2.swift */,
+				7F47A63D2735640A00B6292D /* ScrollViewReaderBootcamp.swift */,
+				7F47A64027359F3600B6292D /* GeometryReaderBootcamp.swift */,
 				7F979D5C2730511A00B60E03 /* Assets.xcassets */,
 				7F979D612730511A00B60E03 /* Info.plist */,
 				7F979D5E2730511A00B60E03 /* Preview Content */,
@@ -150,10 +159,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F47A63B2735513600B6292D /* DragGestureBootcamp2.swift in Sources */,
 				7F47A6382734EAC100B6292D /* DragGestureBootcamp.swift in Sources */,
 				7F979D5B2730511900B60E03 /* ContentView.swift in Sources */,
+				7F47A63E2735640A00B6292D /* ScrollViewReaderBootcamp.swift in Sources */,
 				7F47A6302734DE9A00B6292D /* MagnificationgestureBootcamp.swift in Sources */,
 				7F979D592730511900B60E03 /* SwiftUI_Evolve_2App.swift in Sources */,
+				7F47A64127359F3600B6292D /* GeometryReaderBootcamp.swift in Sources */,
 				7F47A6332734E84A00B6292D /* RotationGestureBootcamp.swift in Sources */,
 				7F47A62D2734D41E00B6292D /* LongPressGestureBootcamp.swift in Sources */,
 			);

@@ -13,7 +13,8 @@ struct SwiftUI_Evolve_2App: App {
         WindowGroup {
 //            ContentView()
 //            MagnificationgestureBootcamp()
-            RotationGestureBootcamp()
+//            RotationGestureBootcamp()
+            DragGestureBootcamp()
         }
     }
 }
