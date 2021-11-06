@@ -14,7 +14,8 @@ struct SwiftUI_Evolve_2App: App {
 //            ContentView()
 //            MagnificationgestureBootcamp()
 //            RotationGestureBootcamp()
-            DragGestureBootcamp()
+//            DragGestureBootcamp()
+            GeometryReaderBootcamp()
         }
     }
 }
