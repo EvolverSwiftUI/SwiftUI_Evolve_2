@@ -1,5 +1,5 @@
 //
-//  LocalNotificationbootcamp.swift
+//  LocalNotificationBootcamp.swift
 //  SwiftUI_Evolve_2
 //
 //  Created by Sivaram Yadav on 11/6/21.
@@ -67,7 +67,7 @@ class NotificationsManager {
     }
 }
 
-struct LocalNotificationbootcamp: View {
+struct LocalNotificationBootcamp: View {
     var body: some View {
         VStack(spacing: 40) {
             Button("Request permission") {
@@ -88,6 +88,6 @@ struct LocalNotificationbootcamp: View {
 
 struct LocalNotificationbootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        LocalNotificationbootcamp()
+        LocalNotificationBootcamp()
     }
 }
