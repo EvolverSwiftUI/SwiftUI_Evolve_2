@@ -25,6 +25,7 @@
 		7F979D5B2730511900B60E03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F979D5A2730511900B60E03 /* ContentView.swift */; };
 		7F979D5D2730511A00B60E03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F979D5C2730511A00B60E03 /* Assets.xcassets */; };
 		7F979D602730511A00B60E03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F979D5F2730511A00B60E03 /* Preview Assets.xcassets */; };
+		7FB0CC972736C27D00629F09 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB0CC962736C27D00629F09 /* HashableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		7F979D5C2730511A00B60E03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F979D5F2730511A00B60E03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7F979D612730511A00B60E03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FB0CC962736C27D00629F09 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				7F663028273670B100A87EA0 /* SoundsBootcamp.swift */,
 				7F6630322736958A00A87EA0 /* HapticsBootcamp.swift */,
 				7F66303527369FAD00A87EA0 /* LocalNotificationBootcamp.swift */,
+				7FB0CC962736C27D00629F09 /* HashableBootcamp.swift */,
 				7F66302B2736750B00A87EA0 /* Sounds */,
 				7F979D5C2730511A00B60E03 /* Assets.xcassets */,
 				7F979D612730511A00B60E03 /* Info.plist */,
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FB0CC972736C27D00629F09 /* HashableBootcamp.swift in Sources */,
 				7F663029273670B100A87EA0 /* SoundsBootcamp.swift in Sources */,
 				7F47A63B2735513600B6292D /* DragGestureBootcamp2.swift in Sources */,
 				7F663026273667C500A87EA0 /* MaskBootcamp.swift in Sources */,
