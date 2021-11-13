@@ -17,7 +17,8 @@ struct SwiftUI_Evolve_2App: App {
 //            DragGestureBootcamp()
 //            GeometryReaderBootcamp()
 //            LocalNotificationBootcamp()
-            CoreDataBootcamp()
+//            CoreDataBootcamp()
+            CoreDataRelationshipsBootcamp()
         }
     }
 }
