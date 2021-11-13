@@ -18,7 +18,8 @@ struct SwiftUI_Evolve_2App: App {
 //            GeometryReaderBootcamp()
 //            LocalNotificationBootcamp()
 //            CoreDataBootcamp()
-            CoreDataRelationshipsBootcamp()
+//            CoreDataRelationshipsBootcamp()
+            BackgroundThreadBootcamp()
         }
     }
 }

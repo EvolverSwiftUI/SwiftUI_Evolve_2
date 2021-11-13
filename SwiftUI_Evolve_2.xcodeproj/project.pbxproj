@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F2A325A273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */; };
 		7F47A62D2734D41E00B6292D /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */; };
 		7F47A6302734DE9A00B6292D /* MagnificationgestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A62F2734DE9A00B6292D /* MagnificationgestureBootcamp.swift */; };
 		7F47A6332734E84A00B6292D /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A6322734E84A00B6292D /* RotationGestureBootcamp.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		7F47A62F2734DE9A00B6292D /* MagnificationgestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationgestureBootcamp.swift; sourceTree = "<group>"; };
 		7F47A6322734E84A00B6292D /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				7FB0CC992736CA8000629F09 /* ArraysBootcamp.swift */,
 				7FF3B314273980AD0014CFD0 /* CoreDataBootcamp.swift */,
 				7FF3B31B273997620014CFD0 /* CoreDataRelationshipsBootcamp.swift */,
+				7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */,
 				7F79DD6B273A5C1100C07DCB /* CoreDataContainer.xcdatamodeld */,
 				7FF3B317273983A90014CFD0 /* FruitsContainer.xcdatamodeld */,
 				7F66302B2736750B00A87EA0 /* Sounds */,
@@ -213,6 +216,7 @@
 				7F663029273670B100A87EA0 /* SoundsBootcamp.swift in Sources */,
 				7F47A63B2735513600B6292D /* DragGestureBootcamp2.swift in Sources */,
 				7FF3B315273980AD0014CFD0 /* CoreDataBootcamp.swift in Sources */,
+				7F2A325A273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift in Sources */,
 				7F663026273667C500A87EA0 /* MaskBootcamp.swift in Sources */,
 				7F66303627369FAD00A87EA0 /* LocalNotificationBootcamp.swift in Sources */,
 				7F47A6382734EAC100B6292D /* DragGestureBootcamp.swift in Sources */,
