@@ -19,7 +19,8 @@ struct SwiftUI_Evolve_2App: App {
 //            LocalNotificationBootcamp()
 //            CoreDataBootcamp()
 //            CoreDataRelationshipsBootcamp()
-            BackgroundThreadBootcamp()
+//            BackgroundThreadBootcamp()
+            WeakSelfbootcamp()
         }
     }
 }
