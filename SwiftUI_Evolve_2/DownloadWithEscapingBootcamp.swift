@@ -7,13 +7,13 @@
 
 import SwiftUI
 
-struct PostModel: Identifiable, Codable {
-    
-    let userId: Int
-    let id: Int
-    let title: String
-    let body: String
-}
+//struct PostModel: Identifiable, Codable {
+//    
+//    let userId: Int
+//    let id: Int
+//    let title: String
+//    let body: String
+//}
 
 class DownloadWithEscapingViewModel: ObservableObject {
     
