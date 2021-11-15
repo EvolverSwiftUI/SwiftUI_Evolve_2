@@ -22,7 +22,8 @@ struct SwiftUI_Evolve_2App: App {
 //            BackgroundThreadBootcamp()
 //            WeakSelfbootcamp()
 //            EscapingBootcamp()
-            CodableBootcamp()
+//            CodableBootcamp()
+            DownloadWithEscapingBootcamp()
         }
     }
 }
