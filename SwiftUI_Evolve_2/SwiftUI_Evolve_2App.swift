@@ -21,7 +21,8 @@ struct SwiftUI_Evolve_2App: App {
 //            CoreDataRelationshipsBootcamp()
 //            BackgroundThreadBootcamp()
 //            WeakSelfbootcamp()
-            EscapingBootcamp()
+//            EscapingBootcamp()
+            CodableBootcamp()
         }
     }
 }
