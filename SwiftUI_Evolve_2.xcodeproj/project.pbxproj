@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F2789182743BE0700A9CEB1 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */; };
 		7F2A325A273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */; };
 		7F2A325F273FFB43008ADA36 /* WeakSelfbootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2A325E273FFB43008ADA36 /* WeakSelfbootcamp.swift */; };
 		7F47A62D2734D41E00B6292D /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		7F2A325E273FFB43008ADA36 /* WeakSelfbootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfbootcamp.swift; sourceTree = "<group>"; };
 		7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				7F6D9D3F2742E07600F9DC5A /* DownloadWithCombineBootcamp.swift */,
 				7F79DD6B273A5C1100C07DCB /* CoreDataContainer.xcdatamodeld */,
 				7FF3B317273983A90014CFD0 /* FruitsContainer.xcdatamodeld */,
+				7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */,
 				7F66302B2736750B00A87EA0 /* Sounds */,
 				7F979D5C2730511A00B60E03 /* Assets.xcassets */,
 				7F979D612730511A00B60E03 /* Info.plist */,
@@ -253,6 +256,7 @@
 				7F979D592730511900B60E03 /* SwiftUI_Evolve_2App.swift in Sources */,
 				7F47A64127359F3600B6292D /* GeometryReaderBootcamp.swift in Sources */,
 				7F6630332736958A00A87EA0 /* HapticsBootcamp.swift in Sources */,
+				7F2789182743BE0700A9CEB1 /* TimerBootcamp.swift in Sources */,
 				7FF3B31C273997620014CFD0 /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				7F47A6332734E84A00B6292D /* RotationGestureBootcamp.swift in Sources */,
 				7F47A62D2734D41E00B6292D /* LongPressGestureBootcamp.swift in Sources */,
@@ -385,6 +389,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Evolve_2/Preview Content\"";
+				DEVELOPMENT_TEAM = 456V44VNRJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUI_Evolve_2/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -406,6 +411,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUI_Evolve_2/Preview Content\"";
+				DEVELOPMENT_TEAM = 456V44VNRJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUI_Evolve_2/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
