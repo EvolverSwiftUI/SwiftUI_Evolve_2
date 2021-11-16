@@ -25,7 +25,8 @@ struct SwiftUI_Evolve_2App: App {
 //            CodableBootcamp()
 //            DownloadWithEscapingBootcamp()
 //            DownloadWithCombineBootcamp()
-            DownloadWithCombineBootcamp()
+//            DownloadWithCombineBootcamp()
+            FileManagerBootcamp()
         }
     }
 }

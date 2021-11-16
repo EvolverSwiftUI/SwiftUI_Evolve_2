@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7F2789182743BE0700A9CEB1 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */; };
 		7F27891B2743E5C800A9CEB1 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F27891A2743E5C800A9CEB1 /* SubscriberBootcamp.swift */; };
+		7F27891E2744073D00A9CEB1 /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F27891D2744073D00A9CEB1 /* FileManagerBootcamp.swift */; };
 		7F2A325A273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */; };
 		7F2A325F273FFB43008ADA36 /* WeakSelfbootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2A325E273FFB43008ADA36 /* WeakSelfbootcamp.swift */; };
 		7F47A62D2734D41E00B6292D /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */; };
@@ -45,6 +46,7 @@
 /* Begin PBXFileReference section */
 		7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		7F27891A2743E5C800A9CEB1 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		7F27891D2744073D00A9CEB1 /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		7F2A3259273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		7F2A325E273FFB43008ADA36 /* WeakSelfbootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfbootcamp.swift; sourceTree = "<group>"; };
 		7F47A62C2734D41E00B6292D /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				7FF3B317273983A90014CFD0 /* FruitsContainer.xcdatamodeld */,
 				7F2789172743BE0700A9CEB1 /* TimerBootcamp.swift */,
 				7F27891A2743E5C800A9CEB1 /* SubscriberBootcamp.swift */,
+				7F27891D2744073D00A9CEB1 /* FileManagerBootcamp.swift */,
 				7F66302B2736750B00A87EA0 /* Sounds */,
 				7F979D5C2730511A00B60E03 /* Assets.xcassets */,
 				7F979D612730511A00B60E03 /* Info.plist */,
@@ -241,6 +244,7 @@
 				7F663029273670B100A87EA0 /* SoundsBootcamp.swift in Sources */,
 				7F6D9D402742E07600F9DC5A /* DownloadWithCombineBootcamp.swift in Sources */,
 				7F47A63B2735513600B6292D /* DragGestureBootcamp2.swift in Sources */,
+				7F27891E2744073D00A9CEB1 /* FileManagerBootcamp.swift in Sources */,
 				7FF3B315273980AD0014CFD0 /* CoreDataBootcamp.swift in Sources */,
 				7F2A325A273FEC0C008ADA36 /* BackgroundThreadBootcamp.swift in Sources */,
 				7F663026273667C500A87EA0 /* MaskBootcamp.swift in Sources */,
