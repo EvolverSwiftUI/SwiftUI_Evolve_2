@@ -26,7 +26,8 @@ struct SwiftUI_Evolve_2App: App {
 //            DownloadWithEscapingBootcamp()
 //            DownloadWithCombineBootcamp()
 //            DownloadWithCombineBootcamp()
-            FileManagerBootcamp()
+//            FileManagerBootcamp()
+            DownloadingImagesBootcamp()
         }
     }
 }
